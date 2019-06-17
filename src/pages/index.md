@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Citizense
-image: /img/citizense-header.png
+image: /img/citizense-header1.png
 heading: '  '
 subheading: Smart cities for smart citizens
 mainpitch:
